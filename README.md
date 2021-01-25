@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-npm install @tanya/holidates
+npm install @tanya-amber-l/holidates
 ```
 
 ## Syntax
