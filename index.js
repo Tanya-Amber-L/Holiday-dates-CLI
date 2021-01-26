@@ -25,7 +25,7 @@ else { //Envoyer la requête GET à date.nager API avec les paramètres
 
         .then(response => {
             response.data.forEach(holiday => {
-                console.log(chalk.blue(holiday.name) + "-" + chalk.magenta(holiday.date));
+                console.log(chalk.blue(holiday.name) + " - " + chalk.magenta.bold(holiday.date));
             });
         })
         .catch(error => {

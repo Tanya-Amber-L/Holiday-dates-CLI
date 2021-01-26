@@ -22,15 +22,21 @@ holidates Belgium 2020
 Gives the result : 
 
 ```
-New Year's Day-2020-01-01
-Easter Sunday-2020-04-12
-Easter Monday-2020-04-13
-Labour Day-2020-05-01
-Ascension Day-2020-05-21
-Whit Monday-2020-06-01
-Belgian National Day-2020-07-21
-Assumption Day-2020-08-15
-All Saints' Day-2020-11-01
-Armistice Day-2020-11-11
-Christmas Day-2020-12-25
+New Year's Day - 2021-01-01
+Easter Sunday - 2021-04-04
+Easter Monday - 2021-04-05
+Labour Day - 2021-05-01
+Ascension Day - 2021-05-13
+Whit Monday - 2021-05-24
+Belgian National Day - 2021-07-21
+Assumption Day - 2021-08-15
+All Saints' Day - 2021-11-01
+Armistice Day - 2021-11-11
+Christmas Day - 2021-12-25
 ```
+
+## Ressources
+* [Nager.date](https://date.nager.at/) : Returns the public holidays from a given year and country.
+* [Country-list](https://www.npmjs.com/package/country-list) :  to convert the country name onto a country code.
+* [Axios](https://www.npmjs.com/package/axios) : to perform HTTP requests.
+* [Chalk](https://www.npmjs.com/package/chalk) : to add some colors in the terminal.
