@@ -40,3 +40,6 @@ Christmas Day - 2021-12-25
 * [Country-list](https://www.npmjs.com/package/country-list) :  to convert the country name onto a country code.
 * [Axios](https://www.npmjs.com/package/axios) : to perform HTTP requests.
 * [Chalk](https://www.npmjs.com/package/chalk) : to add some colors in the terminal.
+
+## Future refactoring
+Right now, the tool works for 1-word Countries. Improvement would be to make it work no matter how many words the country is composed from.
